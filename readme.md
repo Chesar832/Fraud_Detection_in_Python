@@ -14,8 +14,10 @@
 
 - Notebook is available here: [Project Notebook](https://github.com/Chesar832/Fraud_Detection_in_Python/blob/main/Notebook.ipynb)
 - Data is available here: [Credit Card Fraud Detection (data)](https://www.kaggle.com/mishra5001/credit-card?select=application_data.csv)
+
 > The data is not in this repository due to its weight. So, in the data link you'll find the data and its columns description file...
 
 
 --------------------------------------------------------------------
+
 Made with 💙 by [César](https://github.com/Chesar832) 😊
