@@ -1,24 +1,15 @@
-# Proyecto: "Credit Cards Clustering in Python"
+# Proyecto: "Credit Card Fraud Detection in Python"
 
-![banner-money.jpg](https://www.appa.es/wp-content/uploads/2018/05/banner-money-2724241_1920.jpg)
+![banner.png](https://mercobank.com/assets/frontend/img/pages/fp.png)
 
-_Este proyecto va de  (vistazo general)...
+## 💡 Propósito
 
-## [icon] Comprensión del negocio
+_This project aims to understand about risk analytics in banking and financial services. In addition, understand how data is used to minimise the risk of losing money with given loans to customers.
 
-asdasdasdasd...
-
-## [icon] Propósito
-
-lo que quiero resolver ...
 
 ## [icon] Links importantes
 
-0. [Análisis Previo y resultados (documentación)](url)
 1. [Notebook del proyecto](url_notebook)
 2. [Data del proyecto](url_notebook)
 
-## Contribuidores
-aldsfasdfhalsdkfj
-
-Despedida <3...
+Made with ❤️ by [César](https://github.com/Chesar832) 😊
