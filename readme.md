@@ -1,6 +1,6 @@
 # Project: "Credit Card Fraud Detection in Python"
 
-![banner.png](https://mercobank.com/assets/frontend/img/pages/fp.png)
+![banner.png](https://newsroom.ibm.com/image/Fraud_Banner.jpg)
 
 
 - ***Author:*** *César Chalco Elias*
